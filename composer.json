@@ -1,0 +1,25 @@
+{
+    "name": "eldahar/sonarqube-report-bundle",
+    "description": "Sonarqube Symfony reporting bundle",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Eldahar\\SonarQubeReportBundle\\": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "Tibor Oravecz",
+            "email": "tibor.oravecz@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.2",
+        "symfony/console": "7.0.*",
+        "symfony/dotenv": "7.0.*",
+        "symfony/serializer": "7.0.*",
+        "symfony/twig-bundle": "7.0.*",
+        "symfony/yaml": "7.0.*",
+        "twig/twig": "^3.8"
+    }
+}
