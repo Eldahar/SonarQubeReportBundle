@@ -2,6 +2,9 @@
     "name": "eldahar/sonarqube-report-bundle",
     "description": "Sonarqube Symfony reporting bundle",
     "type": "library",
+    "license": [
+        "GPL-3.0-or-later"
+    ],
     "autoload": {
         "psr-4": {
             "Eldahar\\SonarQubeReportBundle\\": ""
