@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Eldahar\SonarQubeReportBundle\DTO;
 
-use Eldahar\SonarQubeAPI\DTO\ProjectComponent;
 use Eldahar\SonarQubeAPI\Enum\IssueSeverityEnum;
+use Eldahar\SonarQubeAPIBundle\DTO\ProjectComponent;
 
 final class ReportDescriptor
 {

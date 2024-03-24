@@ -4,8 +4,8 @@ declare(strict_types=1);
 
 namespace Eldahar\SonarQubeReportBundle\DTO;
 
-use Eldahar\SonarQubeAPI\DTO\Issue;
-use Eldahar\SonarQubeAPI\DTO\IssueComponent;
+use Eldahar\SonarQubeAPIBundle\DTO\Issue;
+use Eldahar\SonarQubeAPIBundle\DTO\IssueComponent;
 
 final class IssueReport
 {
