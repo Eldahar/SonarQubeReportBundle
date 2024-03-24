@@ -24,6 +24,7 @@
         "symfony/serializer": "7.0.*",
         "symfony/twig-bundle": "7.0.*",
         "symfony/yaml": "7.0.*",
-        "twig/twig": "^3.8"
+        "twig/twig": "^3.8",
+        "eldahar/sonarqube-api-bundle": ">=1.0"
     }
 }
